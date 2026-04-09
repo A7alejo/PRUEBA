@@ -1,0 +1,20 @@
+.encabezado {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: brown;
+    border-style: double;
+}
+.main {
+    background-color: rgb(201, 110, 110);
+    
+
+}
+.pie {
+    display: flex;
+    background-color: brown;
+    align-items: center;
+    margin-top: 400px;
+    border-style: double;
+
+}
